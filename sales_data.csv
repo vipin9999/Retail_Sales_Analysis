@@ -1,5 +1,5 @@
 OrderID,Date,Product,Category,Quantity,UnitPrice,TotalSales
-1000,2023-01-01,Headphones,Accessories,1,150,150
+1000,2023-01-01,Headphones,Accessories,1,150,15
 1001,2023-01-01,Mouse,Accessories,3,50,150
 1002,2023-01-01,Monitor,Electronics,1,300,300
 1003,2023-01-01,Mouse,Accessories,2,50,100
